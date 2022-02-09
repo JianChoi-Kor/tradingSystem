@@ -2,7 +2,7 @@ package com.example.project.api;
 
 import com.example.project.dashin.cpsysdib.*;
 
-public class CpSysDibService {
+public class CpSysDibModule {
 
     public static void main(String[] args) {
 

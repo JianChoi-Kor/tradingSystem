@@ -2,7 +2,7 @@ package com.example.project.api;
 
 import com.example.project.dashin.cptrade.*;
 
-public class CpTradeService {
+public class CpTradeModule {
 
     public static void main(String[] args) {
 
